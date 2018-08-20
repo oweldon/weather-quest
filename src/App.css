@@ -102,7 +102,7 @@ button:active {
 }
 
 .weather__info {
-  width: 100%;
+  width: 90%;
   font-size: 20px;
   font-weight: 200;
   letter-spacing: 2px;
@@ -137,6 +137,10 @@ button:active {
   }
 
   .title-container {
+    height: 100vh;
+  }
+
+  .form-container {
     height: 100vh;
   }
 }
